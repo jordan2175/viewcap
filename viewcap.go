@@ -26,7 +26,7 @@ var bOptHelp = getopt.BoolLong("help", 0, "Help")
 var bOptVer = getopt.BoolLong("version", 0, "Version")
 
 var iDebug = 0
-var sVersion = "1.00"
+var sVersion = "0.2"
 
 //
 //
