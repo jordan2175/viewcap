@@ -1,4 +1,4 @@
-# rewritecap #
+# viewcap #
 
 [![GoDoc](https://godoc.org/github.com/jordan2175/viewcap?status.png)](https://godoc.org/github.com/jordan2175/viewcap)
 
